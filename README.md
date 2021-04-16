@@ -7,8 +7,6 @@
 -  **Languages :** Python, JavaScript
 -  **Hobbies :** Gardening
 -  **Fact :** First solve the problem, then write the code :heart: 
--  
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nandhini-Madan&show_icons=true)
