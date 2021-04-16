@@ -1,5 +1,5 @@
 ### Nandhini Madan
-[![Twitter Badge](https://img.shields.io/badge/-MadanNandhini-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MadanNandhini)  [![Linkedin Badge](https://img.shields.io/badge/-nandhinimadan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandhinimadan///)](https://www.linkedin.com/in/nandhinimadan/) [![Gmail Badge](https://img.shields.io/badge/-nandhinimadan20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandhinimadan20@gmail.com)](mailto:nandhinimadan20@gmail.com)
+![Twitter Badge](https://img.shields.io/badge/-MadanNandhini-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MadanNandhini)  [![Linkedin Badge](https://img.shields.io/badge/-nandhinimadan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandhinimadan///)](https://www.linkedin.com/in/nandhinimadan/) [![Gmail Badge](https://img.shields.io/badge/-nandhinimadan20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandhinimadan20@gmail.com)](mailto:nandhinimadan20@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
