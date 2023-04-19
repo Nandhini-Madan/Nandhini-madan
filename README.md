@@ -4,9 +4,9 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, JavaScript
+-  **Languages :** JavaScript
 -  **Hobbies :** Gardening
--  **Fact :** First solve the problem, then write the code :heart: 
+-  **Fact :** First I will understand the problem then write them in board and then I will write code :heart: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nandhini-Madan&show_icons=true)
